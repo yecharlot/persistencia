@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "persistencia",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "595c5824-0eb0-4996-84c7-dc85c4afcf3c",
+      "database_name": "mitienda1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
